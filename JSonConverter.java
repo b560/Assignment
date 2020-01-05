@@ -1,3 +1,8 @@
+/*
+Navigate to the Assignment folder.
+Type Gradle build to build the project.
+Type gradle run to run the code.
+*/
 import java.io.*;
 import org.json.JSONObject;
 import org.json.JSONArray;
