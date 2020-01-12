@@ -173,15 +173,8 @@ public class JSonConverter
          }catch (Exception e) { 
          e.printStackTrace(System.out); 
          }            
-
-
          j++;
-     }  
-
-         
-      //System.out.println(sb); 
-       
+     }      
+      //System.out.println(sb);  
   }
-
-
 }
